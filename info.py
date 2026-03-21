@@ -107,8 +107,8 @@ TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/how_to_download_moviezone/9
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/how_to_download_moviezone/9")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "9dd988a0552a97f798e7a811622c95b5a307dcb5") # Shortener API key
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "arolinks.com") # Shortener website
+SHORTENER_API = environ.get("SHORTENER_API", "f125de8204236d2ba0952c1a67ebd79b7babdd31024d68fa91c91dad440d15bf") # Shortener API key
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "https://securelink-network.vercel.app") # Shortener website
 
 SHORTENER_API2 = environ.get("SHORTENER_API2", "9dd988a0552a97f798e7a811622c95b5a307dcb5")  # Shortener API key for second website
 SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "arolinks.com") # Shortener website for second website
